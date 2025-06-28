@@ -6,7 +6,7 @@ CSV49 is Comma Separated Values For Nigeria: a set of commonly used Nigerian dat
 
 For some, the data as CSV might not be enough. I'm taking steps to have it available also as an API. Relax, it is nothing too serious: just JSON files over which you can do some primitive querying. The first step is changing some of the CSV formats and that is what you see in the json folder.
 
-The final product should live at [api.csv49.xyz](https://api.csv49.xyz) and should be available at no cost except one of you decides to hook it up to something that queries it beyond reasonable limits, say every 9ms. You'll then be invited to host your JSON files yourself.
+The final product should be live at [api.csv49.xyz](https://api.csv49.xyz) and should be available at no cost except one of you decides to hook it up to something that queries it beyond reasonable limits, say every 9ms. You'll then be invited to host your JSON files yourself.
 
 ## Contribute
 
